@@ -4,4 +4,5 @@
 I am a beginner software engineer.
 
 # Programming Languages
-Python Lua
+Luau
+
